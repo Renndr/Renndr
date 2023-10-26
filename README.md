@@ -51,5 +51,5 @@ I enjoy connecting with fellow professionals and collaborating on innovative pro
 ## Stats   
 
    <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Renndr&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Renndr&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true"/>
    </p>
